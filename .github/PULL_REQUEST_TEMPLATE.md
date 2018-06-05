@@ -4,4 +4,4 @@ LP-XXXX : TITLE
 - [ ] list syntax required
 - [ ] normal **formatting**, @mentions, #1234 refs
 - [ ] incomplete
-- [x] completed
+- [x] [a relative link](CONTRIBUTING.md)
