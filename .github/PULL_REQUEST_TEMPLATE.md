@@ -1,7 +1,6 @@
 LP-XXXX : TITLE
 
-- [ ] a task list item
-- [ ] list syntax required
-- [ ] normal **formatting**, @mentions, #1234 refs
-- [ ] incomplete
-- [x] [a relative link](CONTRIBUTING.md)
+- [ ] Review code.
+- [ ] All requirements listed on the ticket are satisfied.
+- [ ] Reviewed testing evidence.
+- [x] Ensure change complies with all [contributing guidelines](CONTRIBUTING.md)
